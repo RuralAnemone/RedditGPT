@@ -1,7 +1,8 @@
 {
   "dependencies": {
-    "chatgpt": "^2.5.0",
-    "dotenv": "^16.0.3",
-    "puppeteer": "^19.4.0"
+    "@types/node": "^24.9.2",
+    "chatgpt": "^5.2.5",
+    "dotenv": "^17.2.3",
+    "puppeteer": "^24.27.0"
   }
 }
